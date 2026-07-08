@@ -10,7 +10,7 @@ and creating modern user experiences.
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=rezanonym&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
