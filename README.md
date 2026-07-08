@@ -54,7 +54,7 @@ and creating modern user experiences.
 
 ---
 
-## 📈 GitHub Stats
+<!--## 📈 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rezanonym&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -62,6 +62,7 @@ and creating modern user experiences.
 </p>
 
 ---
+-->
 
 ## 🔥 GitHub Streak
 
@@ -71,12 +72,12 @@ and creating modern user experiences.
 
 ---
 
-## 🏆 GitHub Trophy
+<!-- ## 🏆 GitHub Trophy
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rezanonym&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
-
+-->
 ---
 
 ## 🤝 Connect with Me
