@@ -6,7 +6,7 @@ Full Stack Web Developer Enthusiast<br>
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Laravel+%7C+Vue.js+%7C+React+Native;Building+Scalable+Web+Applications;Clean+Code+%E2%80%A2+Performance+%E2%80%A2+Innovation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Laravel+%7C+Vue.js+%7C+React.js;Building+Scalable+Web+Applications;Clean+Code+%E2%80%A2+Performance+%E2%80%A2+Innovation" />
 </p>
 
 <p align="center">
@@ -83,11 +83,11 @@ and creating modern, responsive user experiences.
 <a href="https://react.dev/" target="_blank" rel="noopener noreferrer">
 <img src="https://skillicons.dev/icons?i=react"/>
 </a>
-
+<!--
 <a href="https://reactnative.dev/" target="_blank" rel="noopener noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48"/>
 </a>
-
+-->
 <a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer">
 <img src="https://skillicons.dev/icons?i=bootstrap"/>
 </a>
