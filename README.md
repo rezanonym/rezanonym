@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fitrana</h1>
 
 <h3 align="center">
-Full Stack Web Developer from Indonesia 🇮🇩
+Full Stack Web Developer Enthusiast
+  from Indonesia 🇮🇩
 </h3>
 
 <p align="center">
