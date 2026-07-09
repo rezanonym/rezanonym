@@ -30,27 +30,94 @@ and creating modern user experiences.
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=php,js,html,css" />
+<p align="left">
+<a href="https://www.php.net/" target="_blank">
+<img src="https://skillicons.dev/icons?i=php" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://skillicons.dev/icons?i=js" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+<img src="https://skillicons.dev/icons?i=html" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+<img src="https://skillicons.dev/icons?i=css" />
+</a>
 </p>
+
+---
 
 ### Frameworks
 
-<p>
-<img src="https://skillicons.dev/icons?i=laravel,vue,react,bootstrap,tailwind" />
+<p align="left">
+
+<a href="https://laravel.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=laravel" />
+</a>
+
+<a href="https://vuejs.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=vue" />
+</a>
+
+<a href="https://react.dev/" target="_blank">
+<img src="https://skillicons.dev/icons?i=react" />
+</a>
+
+<a href="https://getbootstrap.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=bootstrap" />
+</a>
+
+<a href="https://tailwindcss.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=tailwind" />
+</a>
+
 </p>
+
+---
 
 ### Database
 
-<p>
+<p align="left">
+
+<a href="https://www.mysql.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=mysql" />
+</a>
+
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</a>
+
 </p>
+
+---
 
 ### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+<p align="left">
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=git" />
+</a>
+
+<a href="https://github.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://code.visualstudio.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=vscode" />
+</a>
+
+<a href="https://www.postman.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=postman" />
+</a>
+
+<a href="https://www.npmjs.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=npm" />
+</a>
+
 </p>
 
 ---
