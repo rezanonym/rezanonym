@@ -23,7 +23,7 @@ and creating modern, responsive user experiences.
 ## 👨‍💻 About Me
 
 - 🔭 Currently building web applications with **Laravel**, **Vue.js**, and **React**
-- 📱 Developing cross-platform mobile applications with **React Native**
+<!-- - 📱 Developing cross-platform mobile applications with **React Native** -->
 - 🌱 Continuously learning new technologies and software architecture
 - 💡 Passionate about clean code and scalable system design
 - 🚀 Love building enterprise applications
@@ -36,7 +36,7 @@ and creating modern, responsive user experiences.
 - 🚀 Enterprise Web Development
 - 🔥 RESTful API Development
 - 🎨 Modern UI/UX Implementation
-- 📱 Cross-platform Mobile Development
+<!-- - 📱 Cross-platform Mobile Development -->
 - ⚡ Database Optimization
 - 🏗️ Clean Architecture
 
